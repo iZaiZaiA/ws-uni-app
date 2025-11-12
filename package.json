@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/ws-uni-app",
+    "version": "1.0.0",
+    "nonNpm": true,
+    "nonNpmDescription": "uni-app",
+    "projects": [
+        "https://github.com/dcloudio/uni-app"
+    ],
+    "dependencies": {
+        "vue": "^2.6.8"
+    },
+    "devDependencies": {
+        "@types/ws-uni-app": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "DCloud",
+            "githubUsername": "dcloudio"
+        }
+    ]
+}
